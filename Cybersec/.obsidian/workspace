@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20July2020.md",
+            "file": "21July2020.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 133,
+    "collapsed": true
   },
   "right": {
     "id": "c4dda2fab0a2f5cb",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20July2020.md",
+                "file": "21July2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,11 @@
   },
   "active": "d8f7bd48641539df",
   "lastOpenFiles": [
+    "21July2020.md",
+    "20July2020.md",
+    "Pasted image 20210720192928.png",
+    "Pasted image 20210721185939.png",
+    "Pasted image 20210720200605.png",
     "Untitled.md"
   ]
 }
