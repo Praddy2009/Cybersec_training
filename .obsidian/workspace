@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/20July2021.md",
-            "mode": "preview"
+            "file": "notes/26July2021.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20July2021.md",
+                "file": "notes/26July2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d8f7bd48641539df",
   "lastOpenFiles": [
+    "notes/25July2021.md",
+    "Untitled.md",
     "notes/20July2021.md",
     "notes/23July2021.md",
-    "Untitled.md",
     "24July2021.md",
     "22July2021.md",
     "23July2021.md",
     "21July2021.md",
     "20July2020.md",
-    "21July2020.md",
-    "Pasted image 20210720192928.png"
+    "21July2020.md"
   ]
 }
