@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/28July2021.md",
+            "file": "notes/29July2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/28July2021.md",
+                "file": "notes/29July2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "d8f7bd48641539df",
   "lastOpenFiles": [
+    "Untitled.md",
     "notes/28July2021.md",
     "notes/27July2021.md",
-    "Untitled.md",
     "notes/Untitled.md",
     "notes/26July2021.md",
     "notes/25July2021.md",
